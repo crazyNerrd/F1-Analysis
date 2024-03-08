@@ -1,0 +1,441 @@
+POS,DRIVER,CAR,LAPS,PTS ,RACE,SEQ
+1,Lewis Hamilton,MERCEDES,56,25,Bahrain,1
+2,Max Verstappen,RED BULL RACING HONDA,56,18,Bahrain,1
+3,Valtteri Bottas,MERCEDES,56,16,Bahrain,1
+4,Lando Norris,MCLAREN MERCEDES,56,12,Bahrain,1
+5,Sergio Perez,RED BULL RACING HONDA,56,10,Bahrain,1
+6,Charles Leclerc,FERRARI,56,8,Bahrain,1
+7,Daniel Ricciardo,MCLAREN MERCEDES,56,6,Bahrain,1
+8,Carlos Sainz,FERRARI,56,4,Bahrain,1
+9,Yuki Tsunoda,ALPHATAURI HONDA,56,2,Bahrain,1
+10,Lance Stroll,ASTON MARTIN MERCEDES,56,1,Bahrain,1
+11,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,56,0,Bahrain,1
+12,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,55,0,Bahrain,1
+13,Esteban Ocon,ALPINE RENAULT,55,0,Bahrain,1
+14,George Russell,WILLIAMS MERCEDES,55,0,Bahrain,1
+15,Sebastian Vettel,ASTON MARTIN MERCEDES,55,0,Bahrain,1
+16,Mick Schumacher,HAAS FERRARI,55,0,Bahrain,1
+17,Pierre Gasly,ALPHATAURI HONDA,52,0,Bahrain,1
+18,Nicholas Latifi,WILLIAMS MERCEDES,51,0,Bahrain,1
+NC,Fernando Alonso,ALPINE RENAULT,32,0,Bahrain,1
+NC,Nikita Mazepin,HAAS FERRARI,0,0,Bahrain,1
+1,Max Verstappen,RED BULL RACING HONDA,63,25,Imola,2
+2,Lewis Hamilton,MERCEDES,63,19,Imola,2
+3,Lando Norris,MCLAREN MERCEDES,63,15,Imola,2
+4,Charles Leclerc,FERRARI,63,12,Imola,2
+5,Carlos Sainz,FERRARI,63,10,Imola,2
+6,Daniel Ricciardo,MCLAREN MERCEDES,63,8,Imola,2
+7,Pierre Gasly,ALPHATAURI HONDA,63,6,Imola,2
+8,Lance Stroll,ASTON MARTIN MERCEDES,63,4,Imola,2
+9,Esteban Ocon,ALPINE RENAULT,63,2,Imola,2
+10,Fernando Alonso,ALPINE RENAULT,63,1,Imola,2
+11,Sergio Perez,RED BULL RACING HONDA,63,0,Imola,2
+12,Yuki Tsunoda,ALPHATAURI HONDA,63,0,Imola,2
+13,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,63,0,Imola,2
+14,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,62,0,Imola,2
+15,Sebastian Vettel,ASTON MARTIN MERCEDES,61,0,Imola,2
+16,Mick Schumacher,HAAS FERRARI,61,0,Imola,2
+17,Nikita Mazepin,HAAS FERRARI,61,0,Imola,2
+NC,Valtteri Bottas,MERCEDES,30,0,Imola,2
+NC,George Russell,WILLIAMS MERCEDES,30,0,Imola,2
+NC,Nicholas Latifi,WILLIAMS MERCEDES,0,0,Imola,2
+1,Max Verstappen,RED BULL RACING HONDA,78,25,Monaco,3
+2,Carlos Sainz,FERRARI,78,18,Monaco,3
+3,Lando Norris,MCLAREN MERCEDES,78,15,Monaco,3
+4,Sergio Perez,RED BULL RACING HONDA,78,12,Monaco,3
+5,Sebastian Vettel,ASTON MARTIN MERCEDES,78,10,Monaco,3
+6,Pierre Gasly,ALPHATAURI HONDA,78,8,Monaco,3
+7,Lewis Hamilton,MERCEDES,78,7,Monaco,3
+8,Lance Stroll,ASTON MARTIN MERCEDES,77,4,Monaco,3
+9,Esteban Ocon,ALPINE RENAULT,77,2,Monaco,3
+10,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,77,1,Monaco,3
+11,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,77,0,Monaco,3
+12,Daniel Ricciardo,MCLAREN MERCEDES,77,0,Monaco,3
+13,Fernando Alonso,ALPINE RENAULT,77,0,Monaco,3
+14,George Russell,WILLIAMS MERCEDES,77,0,Monaco,3
+15,Nicholas Latifi,WILLIAMS MERCEDES,77,0,Monaco,3
+16,Yuki Tsunoda,ALPHATAURI HONDA,77,0,Monaco,3
+17,Nikita Mazepin,HAAS FERRARI,75,0,Monaco,3
+18,Mick Schumacher,HAAS FERRARI,75,0,Monaco,3
+NC,Valtteri Bottas,MERCEDES,29,0,Monaco,3
+NC,Charles Leclerc,FERRARI,0,0,Monaco,3
+1,Lewis Hamilton,MERCEDES,66,25,Portugal,4
+2,Max Verstappen,RED BULL RACING HONDA,66,18,Portugal,4
+3,Valtteri Bottas,MERCEDES,66,16,Portugal,4
+4,Sergio Perez,RED BULL RACING HONDA,66,12,Portugal,4
+5,Lando Norris,MCLAREN MERCEDES,66,10,Portugal,4
+6,Charles Leclerc,FERRARI,66,8,Portugal,4
+7,Esteban Ocon,ALPINE RENAULT,66,6,Portugal,4
+8,Fernando Alonso,ALPINE RENAULT,66,4,Portugal,4
+9,Daniel Ricciardo,MCLAREN MERCEDES,66,2,Portugal,4
+10,Pierre Gasly,ALPHATAURI HONDA,66,1,Portugal,4
+11,Carlos Sainz,FERRARI,66,0,Portugal,4
+12,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,65,0,Portugal,4
+13,Sebastian Vettel,ASTON MARTIN MERCEDES,65,0,Portugal,4
+14,Lance Stroll,ASTON MARTIN MERCEDES,65,0,Portugal,4
+15,Yuki Tsunoda,ALPHATAURI HONDA,65,0,Portugal,4
+16,George Russell,WILLIAMS MERCEDES,65,0,Portugal,4
+17,Mick Schumacher,HAAS FERRARI,64,0,Portugal,4
+18,Nicholas Latifi,WILLIAMS MERCEDES,64,0,Portugal,4
+19,Nikita Mazepin,HAAS FERRARI,64,0,Portugal,4
+NC,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,1,0,Portugal,4
+1,Lewis Hamilton,MERCEDES,66,25,Spain,5
+2,Max Verstappen,RED BULL RACING HONDA,66,19,Spain,5
+3,Valtteri Bottas,MERCEDES,66,15,Spain,5
+4,Charles Leclerc,FERRARI,66,12,Spain,5
+5,Sergio Perez,RED BULL RACING HONDA,66,10,Spain,5
+6,Daniel Ricciardo,MCLAREN MERCEDES,66,8,Spain,5
+7,Carlos Sainz,FERRARI,66,6,Spain,5
+8,Lando Norris,MCLAREN MERCEDES,65,4,Spain,5
+9,Esteban Ocon,ALPINE RENAULT,65,2,Spain,5
+10,Pierre Gasly,ALPHATAURI HONDA,65,1,Spain,5
+11,Lance Stroll,ASTON MARTIN MERCEDES,65,0,Spain,5
+12,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,65,0,Spain,5
+13,Sebastian Vettel,ASTON MARTIN MERCEDES,65,0,Spain,5
+14,George Russell,WILLIAMS MERCEDES,65,0,Spain,5
+15,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,65,0,Spain,5
+16,Nicholas Latifi,WILLIAMS MERCEDES,65,0,Spain,5
+17,Fernando Alonso,ALPINE RENAULT,65,0,Spain,5
+18,Mick Schumacher,HAAS FERRARI,64,0,Spain,5
+19,Nikita Mazepin,HAAS FERRARI,64,0,Spain,5
+NC,Yuki Tsunoda,ALPHATAURI HONDA,6,0,Spain,5
+1,Sergio Perez,RED BULL RACING HONDA,51,25,Baku,6
+2,Sebastian Vettel,ASTON MARTIN MERCEDES,51,18,Baku,6
+3,Pierre Gasly,ALPHATAURI HONDA,51,15,Baku,6
+4,Charles Leclerc,FERRARI,51,12,Baku,6
+5,Lando Norris,MCLAREN MERCEDES,51,10,Baku,6
+6,Fernando Alonso,ALPINE RENAULT,51,8,Baku,6
+7,Yuki Tsunoda,ALPHATAURI HONDA,51,6,Baku,6
+8,Carlos Sainz,FERRARI,51,4,Baku,6
+9,Daniel Ricciardo,MCLAREN MERCEDES,51,2,Baku,6
+10,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,51,1,Baku,6
+11,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,51,0,Baku,6
+12,Valtteri Bottas,MERCEDES,51,0,Baku,6
+13,Mick Schumacher,HAAS FERRARI,51,0,Baku,6
+14,Nikita Mazepin,HAAS FERRARI,51,0,Baku,6
+15,Lewis Hamilton,MERCEDES,51,0,Baku,6
+16,Nicholas Latifi,WILLIAMS MERCEDES,51,0,Baku,6
+17,George Russell,WILLIAMS MERCEDES,48,0,Baku,6
+18,Max Verstappen,RED BULL RACING HONDA,45,0,Baku,6
+NC,Lance Stroll,ASTON MARTIN MERCEDES,29,0,Baku,6
+NC,Esteban Ocon,ALPINE RENAULT,3,0,Baku,6
+1,Max Verstappen,RED BULL RACING HONDA,53,26,France,7
+2,Lewis Hamilton,MERCEDES,53,18,France,7
+3,Sergio Perez,RED BULL RACING HONDA,53,15,France,7
+4,Valtteri Bottas,MERCEDES,53,12,France,7
+5,Lando Norris,MCLAREN MERCEDES,53,10,France,7
+6,Daniel Ricciardo,MCLAREN MERCEDES,53,8,France,7
+7,Pierre Gasly,ALPHATAURI HONDA,53,6,France,7
+8,Fernando Alonso,ALPINE RENAULT,53,4,France,7
+9,Sebastian Vettel,ASTON MARTIN MERCEDES,53,2,France,7
+10,Lance Stroll,ASTON MARTIN MERCEDES,53,1,France,7
+11,Carlos Sainz,FERRARI,53,0,France,7
+12,George Russell,WILLIAMS MERCEDES,52,0,France,7
+13,Yuki Tsunoda,ALPHATAURI HONDA,52,0,France,7
+14,Esteban Ocon,ALPINE RENAULT,52,0,France,7
+15,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,52,0,France,7
+16,Charles Leclerc,FERRARI,52,0,France,7
+17,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,52,0,France,7
+18,Nicholas Latifi,WILLIAMS MERCEDES,52,0,France,7
+19,Mick Schumacher,HAAS FERRARI,52,0,France,7
+20,Nikita Mazepin,HAAS FERRARI,52,0,France,7
+1,Max Verstappen,RED BULL RACING HONDA,71,25,Styria,8
+2,Lewis Hamilton,MERCEDES,71,19,Styria,8
+3,Valtteri Bottas,MERCEDES,71,15,Styria,8
+4,Sergio Perez,RED BULL RACING HONDA,71,12,Styria,8
+5,Lando Norris,MCLAREN MERCEDES,70,10,Styria,8
+6,Carlos Sainz,FERRARI,70,8,Styria,8
+7,Charles Leclerc,FERRARI,70,6,Styria,8
+8,Lance Stroll,ASTON MARTIN MERCEDES,70,4,Styria,8
+9,Fernando Alonso,ALPINE RENAULT,70,2,Styria,8
+10,Yuki Tsunoda,ALPHATAURI HONDA,70,1,Styria,8
+11,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,70,0,Styria,8
+12,Sebastian Vettel,ASTON MARTIN MERCEDES,70,0,Styria,8
+13,Daniel Ricciardo,MCLAREN MERCEDES,70,0,Styria,8
+14,Esteban Ocon,ALPINE RENAULT,70,0,Styria,8
+15,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,70,0,Styria,8
+16,Mick Schumacher,HAAS FERRARI,69,0,Styria,8
+17,Nicholas Latifi,WILLIAMS MERCEDES,68,0,Styria,8
+18,Nikita Mazepin,HAAS FERRARI,68,0,Styria,8
+NC,George Russell,WILLIAMS MERCEDES,36,0,Styria,8
+NC,Pierre Gasly,ALPHATAURI HONDA,1,0,Styria,8
+1,Max Verstappen,RED BULL RACING HONDA,71,26,Austria,9
+2,Valtteri Bottas,MERCEDES,71,18,Austria,9
+3,Lando Norris,MCLAREN MERCEDES,71,15,Austria,9
+4,Lewis Hamilton,MERCEDES,71,12,Austria,9
+5,Carlos Sainz,FERRARI,71,10,Austria,9
+6,Sergio Perez,RED BULL RACING HONDA,71,8,Austria,9
+7,Daniel Ricciardo,MCLAREN MERCEDES,71,6,Austria,9
+8,Charles Leclerc,FERRARI,71,4,Austria,9
+9,Pierre Gasly,ALPHATAURI HONDA,71,2,Austria,9
+10,Fernando Alonso,ALPINE RENAULT,70,1,Austria,9
+11,George Russell,WILLIAMS MERCEDES,70,0,Austria,9
+12,Yuki Tsunoda,ALPHATAURI HONDA,70,0,Austria,9
+13,Lance Stroll,ASTON MARTIN MERCEDES,70,0,Austria,9
+14,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,70,0,Austria,9
+15,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,70,0,Austria,9
+16,Nicholas Latifi,WILLIAMS MERCEDES,70,0,Austria,9
+17,Sebastian Vettel,ASTON MARTIN MERCEDES,69,0,Austria,9
+18,Mick Schumacher,HAAS FERRARI,69,0,Austria,9
+19,Nikita Mazepin,HAAS FERRARI,69,0,Austria,9
+NC,Esteban Ocon,ALPINE RENAULT,0,0,Austria,9
+1,Lewis Hamilton,MERCEDES,52,25,British,10
+2,Charles Leclerc,FERRARI,52,18,British,10
+3,Valtteri Bottas,MERCEDES,52,15,British,10
+4,Lando Norris,MCLAREN MERCEDES,52,12,British,10
+5,Daniel Ricciardo,MCLAREN MERCEDES,52,10,British,10
+6,Carlos Sainz,FERRARI,52,8,British,10
+7,Fernando Alonso,ALPINE RENAULT,52,6,British,10
+8,Lance Stroll,ASTON MARTIN MERCEDES,52,4,British,10
+9,Esteban Ocon,ALPINE RENAULT,52,2,British,10
+10,Yuki Tsunoda,ALPHATAURI HONDA,52,1,British,10
+11,Pierre Gasly,ALPHATAURI HONDA,52,0,British,10
+12,George Russell,WILLIAMS MERCEDES,51,0,British,10
+13,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,51,0,British,10
+14,Nicholas Latifi,WILLIAMS MERCEDES,51,0,British,10
+15,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,51,0,British,10
+16,Sergio Perez,RED BULL RACING HONDA,51,0,British,10
+17,Nikita Mazepin,HAAS FERRARI,51,0,British,10
+18,Mick Schumacher,HAAS FERRARI,51,0,British,10
+NC,Sebastian Vettel,ASTON MARTIN MERCEDES,40,0,British,10
+NC,Max Verstappen,RED BULL RACING HONDA,0,0,British,10
+1,Esteban Ocon,ALPINE RENAULT,70,25,Hungary,11
+DQ,Sebastian Vettel,ASTON MARTIN MERCEDES,70,0,Hungary,11
+2,Lewis Hamilton,MERCEDES,70,18,Hungary,11
+3,Carlos Sainz,FERRARI,70,15,Hungary,11
+4,Fernando Alonso,ALPINE RENAULT,70,12,Hungary,11
+5,Pierre Gasly,ALPHATAURI HONDA,70,11,Hungary,11
+6,Yuki Tsunoda,ALPHATAURI HONDA,70,8,Hungary,11
+7,Nicholas Latifi,WILLIAMS MERCEDES,70,6,Hungary,11
+8,George Russell,WILLIAMS MERCEDES,70,4,Hungary,11
+9,Max Verstappen,RED BULL RACING HONDA,70,2,Hungary,11
+10,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,69,1,Hungary,11
+11,Daniel Ricciardo,MCLAREN MERCEDES,69,0,Hungary,11
+12,Mick Schumacher,HAAS FERRARI,69,0,Hungary,11
+13,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,69,0,Hungary,11
+NC,Nikita Mazepin,HAAS FERRARI,3,0,Hungary,11
+NC,Lando Norris,MCLAREN MERCEDES,2,0,Hungary,11
+NC,Valtteri Bottas,MERCEDES,0,0,Hungary,11
+NC,Sergio Perez,RED BULL RACING HONDA,0,0,Hungary,11
+NC,Charles Leclerc,FERRARI,0,0,Hungary,11
+NC,Lance Stroll,ASTON MARTIN MERCEDES,0,0,Hungary,11
+1,Max Verstappen,RED BULL RACING HONDA,1,12.5,SPA ,12
+2,George Russell,WILLIAMS MERCEDES,1,9,SPA ,12
+3,Lewis Hamilton,MERCEDES,1,7.5,SPA ,12
+4,Daniel Ricciardo,MCLAREN MERCEDES,1,6,SPA ,12
+5,Sebastian Vettel,ASTON MARTIN MERCEDES,1,5,SPA ,12
+6,Pierre Gasly,ALPHATAURI HONDA,1,4,SPA ,12
+7,Esteban Ocon,ALPINE RENAULT,1,3,SPA ,12
+8,Charles Leclerc,FERRARI,1,2,SPA ,12
+9,Nicholas Latifi,WILLIAMS MERCEDES,1,1,SPA ,12
+10,Carlos Sainz,FERRARI,1,0.5,SPA ,12
+11,Fernando Alonso,ALPINE RENAULT,1,0,SPA ,12
+12,Valtteri Bottas,MERCEDES,1,0,SPA ,12
+13,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,1,0,SPA ,12
+14,Lando Norris,MCLAREN MERCEDES,1,0,SPA ,12
+15,Yuki Tsunoda,ALPHATAURI HONDA,1,0,SPA ,12
+16,Mick Schumacher,HAAS FERRARI,1,0,SPA ,12
+17,Nikita Mazepin,HAAS FERRARI,1,0,SPA ,12
+18,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,1,0,SPA ,12
+19,Sergio Perez,RED BULL RACING HONDA,1,0,SPA ,12
+20,Lance Stroll,ASTON MARTIN MERCEDES,1,0,SPA ,12
+1,Max Verstappen,RED BULL RACING HONDA,72,25,Zandvoort,13
+2,Lewis Hamilton,MERCEDES,72,19,Zandvoort,13
+3,Valtteri Bottas,MERCEDES,72,15,Zandvoort,13
+4,Pierre Gasly,ALPHATAURI HONDA,71,12,Zandvoort,13
+5,Charles Leclerc,FERRARI,71,10,Zandvoort,13
+6,Fernando Alonso,ALPINE RENAULT,71,8,Zandvoort,13
+7,Carlos Sainz,FERRARI,71,6,Zandvoort,13
+8,Sergio Perez,RED BULL RACING HONDA,71,4,Zandvoort,13
+9,Esteban Ocon,ALPINE RENAULT,71,2,Zandvoort,13
+10,Lando Norris,MCLAREN MERCEDES,71,1,Zandvoort,13
+11,Daniel Ricciardo,MCLAREN MERCEDES,71,0,Zandvoort,13
+12,Lance Stroll,ASTON MARTIN MERCEDES,70,0,Zandvoort,13
+13,Sebastian Vettel,ASTON MARTIN MERCEDES,70,0,Zandvoort,13
+14,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,70,0,Zandvoort,13
+15,Robert Kubica,ALFA ROMEO RACING FERRARI,70,0,Zandvoort,13
+16,Nicholas Latifi,WILLIAMS MERCEDES,70,0,Zandvoort,13
+17,George Russell,WILLIAMS MERCEDES,69,0,Zandvoort,13
+18,Mick Schumacher,HAAS FERRARI,69,0,Zandvoort,13
+NC,Yuki Tsunoda,ALPHATAURI HONDA,48,0,Zandvoort,13
+NC,Nikita Mazepin,HAAS FERRARI,41,0,Zandvoort,13
+1,Daniel Ricciardo,MCLAREN MERCEDES,53,26,Monza,14
+2,Lando Norris,MCLAREN MERCEDES,53,18,Monza,14
+3,Valtteri Bottas,MERCEDES,53,15,Monza,14
+4,Charles Leclerc,FERRARI,53,12,Monza,14
+5,Sergio Perez,RED BULL RACING HONDA,53,10,Monza,14
+6,Carlos Sainz,FERRARI,53,8,Monza,14
+7,Lance Stroll,ASTON MARTIN MERCEDES,53,6,Monza,14
+8,Fernando Alonso,ALPINE RENAULT,53,4,Monza,14
+9,George Russell,WILLIAMS MERCEDES,53,2,Monza,14
+10,Esteban Ocon,ALPINE RENAULT,53,1,Monza,14
+11,Nicholas Latifi,WILLIAMS MERCEDES,53,0,Monza,14
+12,Sebastian Vettel,ASTON MARTIN MERCEDES,53,0,Monza,14
+13,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,53,0,Monza,14
+14,Robert Kubica,ALFA ROMEO RACING FERRARI,53,0,Monza,14
+15,Mick Schumacher,HAAS FERRARI,53,0,Monza,14
+NC,Nikita Mazepin,HAAS FERRARI,41,0,Monza,14
+NC,Lewis Hamilton,MERCEDES,25,0,Monza,14
+NC,Max Verstappen,RED BULL RACING HONDA,25,0,Monza,14
+NC,Pierre Gasly,ALPHATAURI HONDA,3,0,Monza,14
+NC,Yuki Tsunoda,ALPHATAURI HONDA,0,0,Monza,14
+1,Lewis Hamilton,MERCEDES,53,25,Russia,15
+2,Max Verstappen,RED BULL RACING HONDA,53,18,Russia,15
+3,Carlos Sainz,FERRARI,53,15,Russia,15
+4,Daniel Ricciardo,MCLAREN MERCEDES,53,12,Russia,15
+5,Valtteri Bottas,MERCEDES,53,10,Russia,15
+6,Fernando Alonso,ALPINE RENAULT,53,8,Russia,15
+7,Lando Norris,MCLAREN MERCEDES,53,7,Russia,15
+8,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,53,4,Russia,15
+9,Sergio Perez,RED BULL RACING HONDA,53,2,Russia,15
+10,George Russell,WILLIAMS MERCEDES,53,1,Russia,15
+11,Lance Stroll,ASTON MARTIN MERCEDES,53,0,Russia,15
+12,Sebastian Vettel,ASTON MARTIN MERCEDES,52,0,Russia,15
+13,Pierre Gasly,ALPHATAURI HONDA,52,0,Russia,15
+14,Esteban Ocon,ALPINE RENAULT,52,0,Russia,15
+15,Charles Leclerc,FERRARI,52,0,Russia,15
+16,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,52,0,Russia,15
+17,Yuki Tsunoda,ALPHATAURI HONDA,52,0,Russia,15
+18,Nikita Mazepin,HAAS FERRARI,51,0,Russia,15
+19,Nicholas Latifi,WILLIAMS MERCEDES,47,0,Russia,15
+NC,Mick Schumacher,HAAS FERRARI,32,0,Russia,15
+1,Valtteri Bottas,MERCEDES,58,26,Turkish,16
+2,Max Verstappen,RED BULL RACING HONDA,58,18,Turkish,16
+3,Sergio Perez,RED BULL RACING HONDA,58,15,Turkish,16
+4,Charles Leclerc,FERRARI,58,12,Turkish,16
+5,Lewis Hamilton,MERCEDES,58,10,Turkish,16
+6,Pierre Gasly,ALPHATAURI HONDA,58,8,Turkish,16
+7,Lando Norris,MCLAREN MERCEDES,58,6,Turkish,16
+8,Carlos Sainz,FERRARI,58,4,Turkish,16
+9,Lance Stroll,ASTON MARTIN MERCEDES,58,2,Turkish,16
+10,Esteban Ocon,ALPINE RENAULT,57,1,Turkish,16
+11,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,57,0,Turkish,16
+12,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,57,0,Turkish,16
+13,Daniel Ricciardo,MCLAREN MERCEDES,57,0,Turkish,16
+14,Yuki Tsunoda,ALPHATAURI HONDA,57,0,Turkish,16
+15,George Russell,WILLIAMS MERCEDES,57,0,Turkish,16
+16,Fernando Alonso,ALPINE RENAULT,57,0,Turkish,16
+17,Nicholas Latifi,WILLIAMS MERCEDES,57,0,Turkish,16
+18,Sebastian Vettel,ASTON MARTIN MERCEDES,57,0,Turkish,16
+19,Mick Schumacher,HAAS FERRARI,56,0,Turkish,16
+20,Nikita Mazepin,HAAS FERRARI,56,0,Turkish,16
+1,Max Verstappen,RED BULL RACING HONDA,56,25,USA,17
+2,Lewis Hamilton,MERCEDES,56,19,USA,17
+3,Sergio Perez,RED BULL RACING HONDA,56,15,USA,17
+4,Charles Leclerc,FERRARI,56,12,USA,17
+5,Daniel Ricciardo,MCLAREN MERCEDES,56,10,USA,17
+6,Valtteri Bottas,MERCEDES,56,8,USA,17
+7,Carlos Sainz,FERRARI,56,6,USA,17
+8,Lando Norris,MCLAREN MERCEDES,56,4,USA,17
+9,Yuki Tsunoda,ALPHATAURI HONDA,55,2,USA,17
+10,Sebastian Vettel,ASTON MARTIN MERCEDES,55,1,USA,17
+11,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,55,0,USA,17
+12,Lance Stroll,ASTON MARTIN MERCEDES,55,0,USA,17
+13,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,55,0,USA,17
+14,George Russell,WILLIAMS MERCEDES,55,0,USA,17
+15,Nicholas Latifi,WILLIAMS MERCEDES,55,0,USA,17
+16,Mick Schumacher,HAAS FERRARI,54,0,USA,17
+17,Nikita Mazepin,HAAS FERRARI,54,0,USA,17
+NC,Fernando Alonso,ALPINE RENAULT,49,0,USA,17
+NC,Esteban Ocon,ALPINE RENAULT,40,0,USA,17
+NC,Pierre Gasly,ALPHATAURI HONDA,14,0,USA,17
+1,Max Verstappen,RED BULL RACING HONDA,71,25,Mexico,18
+2,Lewis Hamilton,MERCEDES,71,18,Mexico,18
+3,Sergio Perez,RED BULL RACING HONDA,71,15,Mexico,18
+4,Pierre Gasly,ALPHATAURI HONDA,71,12,Mexico,18
+5,Charles Leclerc,FERRARI,71,10,Mexico,18
+6,Carlos Sainz,FERRARI,70,8,Mexico,18
+7,Sebastian Vettel,ASTON MARTIN MERCEDES,70,6,Mexico,18
+8,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,70,4,Mexico,18
+9,Fernando Alonso,ALPINE RENAULT,70,2,Mexico,18
+10,Lando Norris,MCLAREN MERCEDES,70,1,Mexico,18
+11,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,70,0,Mexico,18
+12,Daniel Ricciardo,MCLAREN MERCEDES,70,0,Mexico,18
+13,Esteban Ocon,ALPINE RENAULT,70,0,Mexico,18
+14,Lance Stroll,ASTON MARTIN MERCEDES,69,0,Mexico,18
+15,Valtteri Bottas,MERCEDES,69,0,Mexico,18
+16,George Russell,WILLIAMS MERCEDES,69,0,Mexico,18
+17,Nicholas Latifi,WILLIAMS MERCEDES,69,0,Mexico,18
+18,Nikita Mazepin,HAAS FERRARI,68,0,Mexico,18
+NC,Mick Schumacher,HAAS FERRARI,0,0,Mexico,18
+NC,Yuki Tsunoda,ALPHATAURI HONDA,0,0,Mexico,18
+1,Lewis Hamilton,MERCEDES,71,25,Brazil,19
+2,Max Verstappen,RED BULL RACING HONDA,71,18,Brazil,19
+3,Valtteri Bottas,MERCEDES,71,15,Brazil,19
+4,Sergio Perez,RED BULL RACING HONDA,71,13,Brazil,19
+5,Charles Leclerc,FERRARI,71,10,Brazil,19
+6,Carlos Sainz,FERRARI,71,8,Brazil,19
+7,Pierre Gasly,ALPHATAURI HONDA,70,6,Brazil,19
+8,Esteban Ocon,ALPINE RENAULT,70,4,Brazil,19
+9,Fernando Alonso,ALPINE RENAULT,70,2,Brazil,19
+10,Lando Norris,MCLAREN MERCEDES,70,1,Brazil,19
+11,Sebastian Vettel,ASTON MARTIN MERCEDES,70,0,Brazil,19
+12,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,70,0,Brazil,19
+13,George Russell,WILLIAMS MERCEDES,70,0,Brazil,19
+14,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,70,0,Brazil,19
+15,Yuki Tsunoda,ALPHATAURI HONDA,70,0,Brazil,19
+16,Nicholas Latifi,WILLIAMS MERCEDES,70,0,Brazil,19
+17,Nikita Mazepin,HAAS FERRARI,69,0,Brazil,19
+18,Mick Schumacher,HAAS FERRARI,69,0,Brazil,19
+NC,Daniel Ricciardo,MCLAREN MERCEDES,49,0,Brazil,19
+NC,Lance Stroll,ASTON MARTIN MERCEDES,47,0,Brazil,19
+1,Lewis Hamilton,MERCEDES,57,25,Qatar,20
+2,Max Verstappen,RED BULL RACING HONDA,57,19,Qatar,20
+3,Fernando Alonso,ALPINE RENAULT,57,15,Qatar,20
+4,Sergio Perez,RED BULL RACING HONDA,57,12,Qatar,20
+5,Esteban Ocon,ALPINE RENAULT,57,10,Qatar,20
+6,Lance Stroll,ASTON MARTIN MERCEDES,57,8,Qatar,20
+7,Carlos Sainz,FERRARI,57,6,Qatar,20
+8,Charles Leclerc,FERRARI,57,4,Qatar,20
+9,Lando Norris,MCLAREN MERCEDES,56,2,Qatar,20
+10,Sebastian Vettel,ASTON MARTIN MERCEDES,56,1,Qatar,20
+11,Pierre Gasly,ALPHATAURI HONDA,56,0,Qatar,20
+12,Daniel Ricciardo,MCLAREN MERCEDES,56,0,Qatar,20
+13,Yuki Tsunoda,ALPHATAURI HONDA,56,0,Qatar,20
+14,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,56,0,Qatar,20
+15,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,56,0,Qatar,20
+16,Mick Schumacher,HAAS FERRARI,56,0,Qatar,20
+17,George Russell,WILLIAMS MERCEDES,55,0,Qatar,20
+18,Nikita Mazepin,HAAS FERRARI,55,0,Qatar,20
+NC,Nicholas Latifi,WILLIAMS MERCEDES,50,0,Qatar,20
+NC,Valtteri Bottas,MERCEDES,48,0,Qatar,20
+1,Lewis Hamilton,MERCEDES,50,26,Saudi,21
+2,Max Verstappen,RED BULL RACING HONDA,50,18,Saudi,21
+3,Valtteri Bottas,MERCEDES,50,15,Saudi,21
+4,Esteban Ocon,ALPINE RENAULT,50,12,Saudi,21
+5,Daniel Ricciardo,MCLAREN MERCEDES,50,10,Saudi,21
+6,Pierre Gasly,ALPHATAURI HONDA,50,8,Saudi,21
+7,Charles Leclerc,FERRARI,50,6,Saudi,21
+8,Carlos Sainz,FERRARI,50,4,Saudi,21
+9,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,50,2,Saudi,21
+10,Lando Norris,MCLAREN MERCEDES,50,1,Saudi,21
+11,Lance Stroll,ASTON MARTIN MERCEDES,50,0,Saudi,21
+12,Nicholas Latifi,WILLIAMS MERCEDES,50,0,Saudi,21
+13,Fernando Alonso,ALPINE RENAULT,49,0,Saudi,21
+14,Yuki Tsunoda,ALPHATAURI HONDA,49,0,Saudi,21
+15,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,49,0,Saudi,21
+NC,Sebastian Vettel,ASTON MARTIN MERCEDES,44,0,Saudi,21
+NC,Sergio Perez,RED BULL RACING HONDA,14,0,Saudi,21
+NC,Nikita Mazepin,HAAS FERRARI,14,0,Saudi,21
+NC,George Russell,WILLIAMS MERCEDES,14,0,Saudi,21
+NC,Mick Schumacher,HAAS FERRARI,8,0,Saudi,21
+1,Max Verstappen,RED BULL RACING HONDA,58,26,AbuDhabi,22
+2,Lewis Hamilton,MERCEDES,58,18,AbuDhabi,22
+3,Carlos Sainz,FERRARI,58,15,AbuDhabi,22
+4,Yuki Tsunoda,ALPHATAURI HONDA,58,12,AbuDhabi,22
+5,Pierre Gasly,ALPHATAURI HONDA,58,10,AbuDhabi,22
+6,Valtteri Bottas,MERCEDES,58,8,AbuDhabi,22
+7,Lando Norris,MCLAREN MERCEDES,58,6,AbuDhabi,22
+8,Fernando Alonso,ALPINE RENAULT,58,4,AbuDhabi,22
+9,Esteban Ocon,ALPINE RENAULT,58,2,AbuDhabi,22
+10,Charles Leclerc,FERRARI,58,1,AbuDhabi,22
+11,Sebastian Vettel,ASTON MARTIN MERCEDES,58,0,AbuDhabi,22
+12,Daniel Ricciardo,MCLAREN MERCEDES,57,0,AbuDhabi,22
+13,Lance Stroll,ASTON MARTIN MERCEDES,57,0,AbuDhabi,22
+14,Mick Schumacher,HAAS FERRARI,57,0,AbuDhabi,22
+15,Sergio Perez,RED BULL RACING HONDA,55,0,AbuDhabi,22
+NC,Nicholas Latifi,WILLIAMS MERCEDES,50,0,AbuDhabi,22
+NC,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,33,0,AbuDhabi,22
+NC,George Russell,WILLIAMS MERCEDES,26,0,AbuDhabi,22
+NC,Kimi Räikkönen,ALFA ROMEO RACING FERRARI,25,0,AbuDhabi,22
+NC,Nikita Mazepin,HAAS FERRARI,0,0,AbuDhabi,22
