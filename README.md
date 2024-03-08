@@ -1,8 +1,8 @@
-Season Statistics Analysis
+**Season Statistics Analysis**
 
 This repository contains Python code for analyzing season statistics data for a sports league. The data includes information about players, teams, matches, and various performance metrics recorded throughout the season.
 
-Overview
+**OverView**
 The analysis includes the following steps:
 
 Data Loading: The provided CSV file is read into a pandas DataFrame using Python.
@@ -12,12 +12,14 @@ Data Visualization: Visualizations such as histograms, scatter plots, and box pl
 Correlation Analysis: The correlation between numerical variables is examined to identify potential patterns or relationships.
 Grouping and Aggregation: Data is grouped based on certain criteria, and aggregate statistics are computed to gain insights at different levels of granularity.
 Usage
+
 To run the analysis:
 
 Clone this repository to your local machine.
 Make sure you have Python and Jupyter Notebook installed.
-Open the Jupyter Notebook file (analysis.ipynb) in your preferred environment.
+Open the Jupyter Notebook file (=f1.ipynb) in your preferred environment.
 Follow the instructions and execute the code cells to perform the analysis.
+
 Dependencies
 The following Python libraries are used for the analysis:
 
@@ -27,5 +29,5 @@ seaborn
 
 Files
 data.csv: The CSV file containing the season statistics data.
-analysis.ipynb: Jupyter Notebook containing the Python code for data analysis.
+=f1.ipynb: Jupyter Notebook containing the Python code for data analysis.
 README.md: This file providing an overview of the repository.
